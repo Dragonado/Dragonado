@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragonado&label=Profile%20views&color=0e75b6&style=flat" alt="dragonado" /> </p>
 
+- 🔭 I am one of the lead maintainers of [Codepal](https://marketplace.visualstudio.com/items?itemName=IEEE-NITK.codepal), a VSCode extension used by **2000+** competitive programmers.
+
+- 💻 I interned at **Google** in the summer of 2022, and am open for any opportunities. 
+
 - 🌱 I’m currently learning **Rust, Haskell and advanced C++**
 
 - 📄 Know about my experiences [http://bit.ly/3HFshsd](http://bit.ly/3HFshsd)
