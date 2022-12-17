@@ -5,7 +5,7 @@
 
 - 🔭 I am one of the lead maintainers of [CodePal](https://marketplace.visualstudio.com/items?itemName=IEEE-NITK.codepal), a VSCode extension used by **2000+** competitive programmers around the world.
 
-- I myself am an avid competitve programmer. My achievements include reaching a title of **Candidate Master** on CodeForces and being selected for **ICPC 2021 Asia West** continent finals. I have also set several problems for many reputed CP platforms. You can check them [here](https://github.com/Dragonado/my_CP_problems). 
+- I am an avid competitve programmer. My achievements include reaching a title of **Candidate Master** on CodeForces and being selected for **ICPC 2021 Asia West** continent finals. I have also set several problems for many reputed CP platforms like CodeDrills and Codechef. You can check them [here](https://github.com/Dragonado/my_CP_problems). 
 
 - 💻 I interned at **Google** in the summer of 2022, and am open for any opportunities. 
 
