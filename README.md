@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Rust, Haskell and advanced C++**
 
-- 📄 You can check out me resume (here)[http://bit.ly/3HFshsd](http://bit.ly/3HFshsd)
+- 📄 You can check out me resume [here](http://bit.ly/3HFshsd)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
