@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragonado&label=Profile%20views&color=0e75b6&style=flat" alt="dragonado" /> </p>
 
-- 🔭 I am one of the lead maintainers of [CodePal](https://marketplace.visualstudio.com/items?itemName=IEEE-NITK.codepal), a VSCode extension used by **2000+** competitive programmers around the world.
+- 🔭 I am one of the lead maintainers of [CodePal](https://marketplace.visualstudio.com/items?itemName=IEEE-NITK.codepal), a VSCode extension used by **5000+** competitive programmers around the world.
 
 - I am an avid competitve programmer. My achievements include reaching a title of **Candidate Master** on CodeForces, **6\*** on Codechef and being selected for **ICPC 2021 Asia West** continent finals. I have also set several problems for many reputed CP platforms like CodeDrills and Codechef. You can check them [here](https://github.com/Dragonado/my_CP_problems). 
 
