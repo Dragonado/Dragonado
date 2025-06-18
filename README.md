@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragonado&label=Profile%20views&color=0e75b6&style=flat" alt="dragonado" /> </p>
 
-- 🔭 I am one of the lead maintainers of [CodePal](https://marketplace.visualstudio.com/items?itemName=IEEE-NITK.codepal), a VSCode extension used by **5000+** competitive programmers around the world.
+- 🔭 I am one of the lead maintainers of [CodePal](https://marketplace.visualstudio.com/items?itemName=IEEE-NITK.codepal), a VSCode extension used by more than **6000+** competitive programmers around the world.
 
 - I am an avid competitve programmer. My achievements include reaching a title of **Candidate Master** on CodeForces, **6\*** on Codechef and being selected for **ICPC 2021 Asia West** continent finals. I have also set several problems for many reputed CP platforms like CodeDrills and Codechef. You can check them [here](https://github.com/Dragonado/my_CP_problems). 
 
-- 💻 I interned at **Google** in the summer of 2022, and am open for any opportunities. 
+- 💻 I have 2 years of work experience working in Google as a Software Engineer.
 
-- 🎓 I am currently a final year undergraduate at **National Institute of Technology Karnataka**, and will be graduating in the summer of 2023.
+- 🎓 I am currently pursuing my masters degree in Computer Science at Georgia Tech.
 
-- 🌱 I’m currently learning **Rust, Haskell and advanced C++**
-
-- 📄 You can check out my resume [here](http://bit.ly/3HFshsd)
+- 📄 Please contact me on LinkedIn or email for my resume.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
