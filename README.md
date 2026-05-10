@@ -11,8 +11,6 @@
 
 - 🎓 I am currently pursuing my masters degree in Computer Science at Georgia Tech, Atlanta, USA.
 
-- 📄 Please contact me on LinkedIn for my resume.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/chaithanya-shyam-d-6854b9169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaithanya-shyam-6854b9169" height="30" width="40" /></a>
